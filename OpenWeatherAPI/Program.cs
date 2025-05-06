@@ -51,6 +51,7 @@ namespace OpenWeatherAPI
                 Console.OutputEncoding = System.Text.Encoding.UTF8; // jetbrains needed this code input for me to use the fun unicode (had to look up)
                 Console.WriteLine("\u274C Error fetching weather data. Please check your API key and ZIP code."); //red X
             }
+            // Tested finished
 
 
         }

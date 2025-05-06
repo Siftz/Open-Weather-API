@@ -16,3 +16,4 @@ C:\Users\lakin\repos\OpenWeatherAPI\OpenWeatherAPI\obj\Debug\net9.0\refint\OpenW
 C:\Users\lakin\repos\OpenWeatherAPI\OpenWeatherAPI\obj\Debug\net9.0\OpenWeatherAPI.pdb
 C:\Users\lakin\repos\OpenWeatherAPI\OpenWeatherAPI\obj\Debug\net9.0\OpenWeatherAPI.genruntimeconfig.cache
 C:\Users\lakin\repos\OpenWeatherAPI\OpenWeatherAPI\obj\Debug\net9.0\ref\OpenWeatherAPI.dll
+C:\Users\lakin\repos\OpenWeatherAPI\OpenWeatherAPI\obj\Debug\net9.0\OpenWeatherAPI.sourcelink.json
